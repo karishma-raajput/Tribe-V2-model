@@ -1,0 +1,970 @@
+{
+  "video": "video.mp4",
+  "generated_at": "2026-04-18T16:36:03",
+  "cei": 51.28,
+  "avg_engagement": 50.84,
+  "peak": {
+    "value": 100.0,
+    "time_s": 48.0
+  },
+  "lowest": {
+    "value": 0.0,
+    "time_s": 0.0
+  },
+  "buckets": {
+    "high": 46,
+    "medium": 100,
+    "low": 80
+  },
+  "emotions": {
+    "High Arousal / Hook": 45,
+    "Positive Engagement": 2,
+    "Suppression / Drift": 2,
+    "Conflict / Tension": 177
+  },
+  "regions": {
+    "Prefrontal": 1.713,
+    "Motor": 1.726,
+    "Parietal": 1.722,
+    "Temporal": 1.694,
+    "Occipital": 1.726
+  },
+  "timeline": [
+    {
+      "time": 0.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 1.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 2.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 3.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 4.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 5.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 6.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 7.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 8.0,
+      "engagement": 17.5
+    },
+    {
+      "time": 9.0,
+      "engagement": 39.1
+    },
+    {
+      "time": 10.0,
+      "engagement": 37.6
+    },
+    {
+      "time": 11.0,
+      "engagement": 47.1
+    },
+    {
+      "time": 12.0,
+      "engagement": 34.8
+    },
+    {
+      "time": 13.0,
+      "engagement": 25.4
+    },
+    {
+      "time": 14.0,
+      "engagement": 19.2
+    },
+    {
+      "time": 15.0,
+      "engagement": 12.0
+    },
+    {
+      "time": 16.0,
+      "engagement": 1.2
+    },
+    {
+      "time": 17.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 18.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 19.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 20.0,
+      "engagement": 0.0
+    },
+    {
+      "time": 21.0,
+      "engagement": 17.0
+    },
+    {
+      "time": 22.0,
+      "engagement": 38.5
+    },
+    {
+      "time": 23.0,
+      "engagement": 44.3
+    },
+    {
+      "time": 24.0,
+      "engagement": 45.4
+    },
+    {
+      "time": 25.0,
+      "engagement": 27.2
+    },
+    {
+      "time": 26.0,
+      "engagement": 22.5
+    },
+    {
+      "time": 27.0,
+      "engagement": 27.0
+    },
+    {
+      "time": 28.0,
+      "engagement": 36.8
+    },
+    {
+      "time": 29.0,
+      "engagement": 52.0
+    },
+    {
+      "time": 30.0,
+      "engagement": 52.0
+    },
+    {
+      "time": 31.0,
+      "engagement": 64.6
+    },
+    {
+      "time": 32.0,
+      "engagement": 66.0
+    },
+    {
+      "time": 33.0,
+      "engagement": 57.6
+    },
+    {
+      "time": 34.0,
+      "engagement": 55.4
+    },
+    {
+      "time": 35.0,
+      "engagement": 55.4
+    },
+    {
+      "time": 36.0,
+      "engagement": 57.6
+    },
+    {
+      "time": 37.0,
+      "engagement": 53.1
+    },
+    {
+      "time": 38.0,
+      "engagement": 43.5
+    },
+    {
+      "time": 39.0,
+      "engagement": 38.7
+    },
+    {
+      "time": 40.0,
+      "engagement": 40.7
+    },
+    {
+      "time": 41.0,
+      "engagement": 38.6
+    },
+    {
+      "time": 42.0,
+      "engagement": 38.2
+    },
+    {
+      "time": 43.0,
+      "engagement": 45.5
+    },
+    {
+      "time": 44.0,
+      "engagement": 64.4
+    },
+    {
+      "time": 45.0,
+      "engagement": 74.9
+    },
+    {
+      "time": 46.0,
+      "engagement": 93.7
+    },
+    {
+      "time": 47.0,
+      "engagement": 75.5
+    },
+    {
+      "time": 48.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 49.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 50.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 51.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 52.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 53.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 54.0,
+      "engagement": 94.9
+    },
+    {
+      "time": 55.0,
+      "engagement": 83.9
+    },
+    {
+      "time": 56.0,
+      "engagement": 74.7
+    },
+    {
+      "time": 57.0,
+      "engagement": 59.9
+    },
+    {
+      "time": 58.0,
+      "engagement": 62.1
+    },
+    {
+      "time": 59.0,
+      "engagement": 55.4
+    },
+    {
+      "time": 60.0,
+      "engagement": 53.2
+    },
+    {
+      "time": 61.0,
+      "engagement": 55.5
+    },
+    {
+      "time": 62.0,
+      "engagement": 39.7
+    },
+    {
+      "time": 63.0,
+      "engagement": 44.2
+    },
+    {
+      "time": 64.0,
+      "engagement": 49.1
+    },
+    {
+      "time": 65.0,
+      "engagement": 32.7
+    },
+    {
+      "time": 66.0,
+      "engagement": 28.9
+    },
+    {
+      "time": 67.0,
+      "engagement": 32.7
+    },
+    {
+      "time": 68.0,
+      "engagement": 38.2
+    },
+    {
+      "time": 69.0,
+      "engagement": 48.3
+    },
+    {
+      "time": 70.0,
+      "engagement": 60.7
+    },
+    {
+      "time": 71.0,
+      "engagement": 52.0
+    },
+    {
+      "time": 72.0,
+      "engagement": 57.0
+    },
+    {
+      "time": 73.0,
+      "engagement": 55.3
+    },
+    {
+      "time": 74.0,
+      "engagement": 48.3
+    },
+    {
+      "time": 75.0,
+      "engagement": 46.5
+    },
+    {
+      "time": 76.0,
+      "engagement": 43.6
+    },
+    {
+      "time": 77.0,
+      "engagement": 38.1
+    },
+    {
+      "time": 78.0,
+      "engagement": 43.7
+    },
+    {
+      "time": 79.0,
+      "engagement": 51.8
+    },
+    {
+      "time": 80.0,
+      "engagement": 72.4
+    },
+    {
+      "time": 81.0,
+      "engagement": 98.8
+    },
+    {
+      "time": 82.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 83.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 84.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 85.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 86.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 87.0,
+      "engagement": 100.0
+    },
+    {
+      "time": 88.0,
+      "engagement": 93.0
+    },
+    {
+      "time": 89.0,
+      "engagement": 90.1
+    },
+    {
+      "time": 90.0,
+      "engagement": 86.0
+    },
+    {
+      "time": 91.0,
+      "engagement": 88.1
+    },
+    {
+      "time": 92.0,
+      "engagement": 84.8
+    },
+    {
+      "time": 93.0,
+      "engagement": 92.2
+    },
+    {
+      "time": 94.0,
+      "engagement": 93.6
+    },
+    {
+      "time": 95.0,
+      "engagement": 96.5
+    },
+    {
+      "time": 96.0,
+      "engagement": 97.0
+    },
+    {
+      "time": 97.0,
+      "engagement": 89.5
+    },
+    {
+      "time": 98.0,
+      "engagement": 84.8
+    },
+    {
+      "time": 99.0,
+      "engagement": 80.6
+    },
+    {
+      "time": 100.0,
+      "engagement": 32.9
+    },
+    {
+      "time": 101.0,
+      "engagement": 37.0
+    },
+    {
+      "time": 102.0,
+      "engagement": 29.6
+    },
+    {
+      "time": 103.0,
+      "engagement": 47.8
+    },
+    {
+      "time": 104.0,
+      "engagement": 44.3
+    },
+    {
+      "time": 105.0,
+      "engagement": 42.6
+    },
+    {
+      "time": 106.0,
+      "engagement": 46.2
+    },
+    {
+      "time": 107.0,
+      "engagement": 48.6
+    },
+    {
+      "time": 108.0,
+      "engagement": 39.0
+    },
+    {
+      "time": 109.0,
+      "engagement": 53.7
+    },
+    {
+      "time": 110.0,
+      "engagement": 55.8
+    },
+    {
+      "time": 111.0,
+      "engagement": 44.6
+    },
+    {
+      "time": 112.0,
+      "engagement": 62.1
+    },
+    {
+      "time": 113.0,
+      "engagement": 69.5
+    },
+    {
+      "time": 114.0,
+      "engagement": 64.7
+    },
+    {
+      "time": 115.0,
+      "engagement": 75.5
+    },
+    {
+      "time": 116.0,
+      "engagement": 69.3
+    },
+    {
+      "time": 117.0,
+      "engagement": 62.7
+    },
+    {
+      "time": 118.0,
+      "engagement": 68.1
+    },
+    {
+      "time": 119.0,
+      "engagement": 69.1
+    },
+    {
+      "time": 120.0,
+      "engagement": 61.8
+    },
+    {
+      "time": 121.0,
+      "engagement": 60.0
+    },
+    {
+      "time": 122.0,
+      "engagement": 65.4
+    },
+    {
+      "time": 123.0,
+      "engagement": 71.2
+    },
+    {
+      "time": 124.0,
+      "engagement": 80.9
+    },
+    {
+      "time": 125.0,
+      "engagement": 89.2
+    },
+    {
+      "time": 126.0,
+      "engagement": 82.7
+    },
+    {
+      "time": 127.0,
+      "engagement": 69.9
+    },
+    {
+      "time": 128.0,
+      "engagement": 68.3
+    },
+    {
+      "time": 129.0,
+      "engagement": 58.7
+    },
+    {
+      "time": 130.0,
+      "engagement": 67.4
+    },
+    {
+      "time": 131.0,
+      "engagement": 56.5
+    },
+    {
+      "time": 132.0,
+      "engagement": 62.9
+    },
+    {
+      "time": 133.0,
+      "engagement": 61.8
+    },
+    {
+      "time": 134.0,
+      "engagement": 60.3
+    },
+    {
+      "time": 135.0,
+      "engagement": 56.1
+    },
+    {
+      "time": 136.0,
+      "engagement": 62.9
+    },
+    {
+      "time": 137.0,
+      "engagement": 54.3
+    },
+    {
+      "time": 138.0,
+      "engagement": 51.7
+    },
+    {
+      "time": 139.0,
+      "engagement": 43.1
+    },
+    {
+      "time": 140.0,
+      "engagement": 43.2
+    },
+    {
+      "time": 141.0,
+      "engagement": 37.2
+    },
+    {
+      "time": 142.0,
+      "engagement": 46.6
+    },
+    {
+      "time": 143.0,
+      "engagement": 60.1
+    },
+    {
+      "time": 144.0,
+      "engagement": 56.0
+    },
+    {
+      "time": 145.0,
+      "engagement": 57.5
+    },
+    {
+      "time": 146.0,
+      "engagement": 72.3
+    },
+    {
+      "time": 147.0,
+      "engagement": 84.4
+    },
+    {
+      "time": 148.0,
+      "engagement": 76.4
+    },
+    {
+      "time": 149.0,
+      "engagement": 70.6
+    },
+    {
+      "time": 150.0,
+      "engagement": 79.7
+    },
+    {
+      "time": 151.0,
+      "engagement": 67.5
+    },
+    {
+      "time": 152.0,
+      "engagement": 63.6
+    },
+    {
+      "time": 153.0,
+      "engagement": 51.6
+    },
+    {
+      "time": 154.0,
+      "engagement": 38.6
+    },
+    {
+      "time": 155.0,
+      "engagement": 24.3
+    },
+    {
+      "time": 156.0,
+      "engagement": 24.1
+    },
+    {
+      "time": 157.0,
+      "engagement": 13.8
+    },
+    {
+      "time": 158.0,
+      "engagement": 4.5
+    },
+    {
+      "time": 159.0,
+      "engagement": 5.9
+    },
+    {
+      "time": 160.0,
+      "engagement": 15.5
+    },
+    {
+      "time": 161.0,
+      "engagement": 15.9
+    },
+    {
+      "time": 162.0,
+      "engagement": 14.9
+    },
+    {
+      "time": 163.0,
+      "engagement": 9.2
+    },
+    {
+      "time": 164.0,
+      "engagement": 19.9
+    },
+    {
+      "time": 165.0,
+      "engagement": 28.2
+    },
+    {
+      "time": 166.0,
+      "engagement": 33.4
+    },
+    {
+      "time": 167.0,
+      "engagement": 31.8
+    },
+    {
+      "time": 168.0,
+      "engagement": 34.8
+    },
+    {
+      "time": 169.0,
+      "engagement": 33.9
+    },
+    {
+      "time": 170.0,
+      "engagement": 31.6
+    },
+    {
+      "time": 171.0,
+      "engagement": 39.2
+    },
+    {
+      "time": 172.0,
+      "engagement": 33.0
+    },
+    {
+      "time": 173.0,
+      "engagement": 41.3
+    },
+    {
+      "time": 174.0,
+      "engagement": 31.1
+    },
+    {
+      "time": 175.0,
+      "engagement": 35.6
+    },
+    {
+      "time": 176.0,
+      "engagement": 31.7
+    },
+    {
+      "time": 177.0,
+      "engagement": 47.5
+    },
+    {
+      "time": 178.0,
+      "engagement": 30.9
+    },
+    {
+      "time": 179.0,
+      "engagement": 31.1
+    },
+    {
+      "time": 180.0,
+      "engagement": 62.8
+    },
+    {
+      "time": 181.0,
+      "engagement": 78.0
+    },
+    {
+      "time": 182.0,
+      "engagement": 78.1
+    },
+    {
+      "time": 183.0,
+      "engagement": 48.5
+    },
+    {
+      "time": 184.0,
+      "engagement": 42.5
+    },
+    {
+      "time": 185.0,
+      "engagement": 41.7
+    },
+    {
+      "time": 186.0,
+      "engagement": 39.0
+    },
+    {
+      "time": 187.0,
+      "engagement": 39.3
+    },
+    {
+      "time": 188.0,
+      "engagement": 42.3
+    },
+    {
+      "time": 189.0,
+      "engagement": 35.4
+    },
+    {
+      "time": 190.0,
+      "engagement": 26.0
+    },
+    {
+      "time": 191.0,
+      "engagement": 31.0
+    },
+    {
+      "time": 192.0,
+      "engagement": 32.7
+    },
+    {
+      "time": 193.0,
+      "engagement": 41.3
+    },
+    {
+      "time": 194.0,
+      "engagement": 39.3
+    },
+    {
+      "time": 195.0,
+      "engagement": 42.6
+    },
+    {
+      "time": 196.0,
+      "engagement": 41.7
+    },
+    {
+      "time": 197.0,
+      "engagement": 42.5
+    },
+    {
+      "time": 198.0,
+      "engagement": 39.7
+    },
+    {
+      "time": 199.0,
+      "engagement": 38.9
+    },
+    {
+      "time": 200.0,
+      "engagement": 34.6
+    },
+    {
+      "time": 201.0,
+      "engagement": 29.3
+    },
+    {
+      "time": 202.0,
+      "engagement": 44.5
+    },
+    {
+      "time": 203.0,
+      "engagement": 56.5
+    },
+    {
+      "time": 204.0,
+      "engagement": 70.4
+    },
+    {
+      "time": 205.0,
+      "engagement": 81.1
+    },
+    {
+      "time": 206.0,
+      "engagement": 67.4
+    },
+    {
+      "time": 207.0,
+      "engagement": 56.4
+    },
+    {
+      "time": 208.0,
+      "engagement": 51.5
+    },
+    {
+      "time": 209.0,
+      "engagement": 44.7
+    },
+    {
+      "time": 210.0,
+      "engagement": 48.4
+    },
+    {
+      "time": 211.0,
+      "engagement": 52.7
+    },
+    {
+      "time": 212.0,
+      "engagement": 43.7
+    },
+    {
+      "time": 213.0,
+      "engagement": 50.4
+    },
+    {
+      "time": 214.0,
+      "engagement": 57.5
+    },
+    {
+      "time": 215.0,
+      "engagement": 58.9
+    },
+    {
+      "time": 216.0,
+      "engagement": 69.6
+    },
+    {
+      "time": 217.0,
+      "engagement": 69.3
+    },
+    {
+      "time": 218.0,
+      "engagement": 63.0
+    },
+    {
+      "time": 219.0,
+      "engagement": 62.2
+    },
+    {
+      "time": 220.0,
+      "engagement": 39.5
+    },
+    {
+      "time": 221.0,
+      "engagement": 36.2
+    },
+    {
+      "time": 222.0,
+      "engagement": 38.2
+    },
+    {
+      "time": 223.0,
+      "engagement": 28.2
+    },
+    {
+      "time": 224.0,
+      "engagement": 33.1
+    },
+    {
+      "time": 225.0,
+      "engagement": 44.7
+    }
+  ],
+  "swot": {
+    "Strengths": [],
+    "Weaknesses": [
+      "4s: Suppression / Drift (score 0.0)",
+      "5s: Conflict / Tension (score 0.0)",
+      "16s: Conflict / Tension (score 1.2)",
+      "17s: Conflict / Tension (score 0.0)",
+      "18s: Conflict / Tension (score 0.0)",
+      "19s: Conflict / Tension (score 0.0)",
+      "20s: Conflict / Tension (score 0.0)",
+      "21s: Conflict / Tension (score 17.0)",
+      "25s: Conflict / Tension (score 27.2)",
+      "26s: Conflict / Tension (score 22.5)",
+      "27s: Conflict / Tension (score 27.0)",
+      "155s: Conflict / Tension (score 24.3)",
+      "156s: Conflict / Tension (score 24.1)",
+      "157s: Conflict / Tension (score 13.8)",
+      "158s: Conflict / Tension (score 4.5)",
+      "165s: Conflict / Tension (score 28.2)",
+      "190s: Conflict / Tension (score 26.0)"
+    ],
+    "Opportunities": [
+      "100s: Drop after peak \u2192 edit tight karo"
+    ],
+    "Threats": [
+      "0s\u201310s: Low attention zone",
+      "12s\u201322s: Low attention zone",
+      "154s\u2013172s: Low attention zone",
+      "220s\u2013224s: Low attention zone"
+    ]
+  },
+  "ai_suggestions": "1. **First 5s diagnosis**: The video starts with 0.0/100 engagement, indicating a weak or non-existent hook. Viewers are not grabbed from the beginning, which may lead to high drop-off rates.\n\n2. **Peak analysis**: Peak engagement of 100.0/100 at 48.0s suggests that the content at this point is highly captivating, possibly due to a revealing moment, a surprising fact, or an emotional connection. This segment should be analyzed to understand what makes it so engaging.\n\n3. **Biggest drop diagnosis**: Although the exact timing of the biggest drop is not provided, the lowest engagement of 0.0/100 at 0.0s and the average engagement of 50.8/100 suggest that there might be a significant drop after the peak engagement at 48.0s or during the initial seconds. Without more data, it's challenging to pinpoint the exact moment, but it's clear that the start and possibly the section following the peak are areas of concern.\n\n4. **3 edit suggestions**:\n   - **Start with a stronger hook**: Consider revising the first 5 seconds to include a more captivating visual, an interesting fact, or a question that encourages viewers to keep watching.\n   - **Build up to the peak**: Analyze the content leading up to the 48.0s mark and ensure that it's engaging and logically leads to the peak moment. This could involve adding more context, suspense, or emotional connection.\n   - **Sustain engagement after the peak**: After the 48.0s mark, introduce new, equally engaging content or expand on the topic that peaked the viewers' interest. This could involve a deeper dive into the subject, related stories, or calls to action to keep the audience invested."
+}

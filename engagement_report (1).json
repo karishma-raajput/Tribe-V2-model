@@ -1,0 +1,5023 @@
+{
+  "video_name": "video.mp4",
+  "analysis_date": "2026-04-18T16:26:07.848161",
+  "cei": 51.3,
+  "swot": {
+    "Strengths": [],
+    "Weaknesses": [
+      "4s: Suppression / Drift (score 0.0)",
+      "5s: Conflict / Tension (score 0.0)",
+      "16s: Conflict / Tension (score 1.2)",
+      "17s: Conflict / Tension (score 0.0)",
+      "18s: Conflict / Tension (score 0.0)",
+      "19s: Conflict / Tension (score 0.0)",
+      "20s: Conflict / Tension (score 0.0)",
+      "21s: Conflict / Tension (score 17.0)",
+      "25s: Conflict / Tension (score 27.2)",
+      "26s: Conflict / Tension (score 22.5)",
+      "27s: Conflict / Tension (score 27.0)",
+      "155s: Conflict / Tension (score 24.3)",
+      "156s: Conflict / Tension (score 24.1)",
+      "157s: Conflict / Tension (score 13.8)",
+      "158s: Conflict / Tension (score 4.5)",
+      "165s: Conflict / Tension (score 28.2)",
+      "190s: Conflict / Tension (score 26.0)"
+    ],
+    "Opportunities": [
+      "100s: Drop after peak → edit tight karo"
+    ],
+    "Threats": [
+      "0s–10s: Low attention zone",
+      "12s–22s: Low attention zone",
+      "154s–172s: Low attention zone",
+      "220s–224s: Low attention zone"
+    ]
+  },
+  "per_second": [
+    {
+      "time_start": 0.0,
+      "time_end": 1.0,
+      "engagement": 0.0,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.17,
+      "confidence": 0.61,
+      "top_features": [
+        {
+          "feature": 15240,
+          "z": 3.76
+        },
+        {
+          "feature": 19560,
+          "z": 3.48
+        },
+        {
+          "feature": 1168,
+          "z": 3.41
+        }
+      ]
+    },
+    {
+      "time_start": 1.0,
+      "time_end": 2.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Positive Engagement",
+      "valence": 0.07,
+      "confidence": 0.43,
+      "top_features": [
+        {
+          "feature": 10171,
+          "z": -1.4
+        },
+        {
+          "feature": 428,
+          "z": 1.3
+        },
+        {
+          "feature": 16966,
+          "z": -1.28
+        }
+      ]
+    },
+    {
+      "time_start": 2.0,
+      "time_end": 3.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Suppression / Drift",
+      "valence": -0.03,
+      "confidence": 0.43,
+      "top_features": [
+        {
+          "feature": 2723,
+          "z": 1.16
+        },
+        {
+          "feature": 5692,
+          "z": 1.1
+        },
+        {
+          "feature": 324,
+          "z": -1.07
+        }
+      ]
+    },
+    {
+      "time_start": 3.0,
+      "time_end": 4.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Positive Engagement",
+      "valence": 0.05,
+      "confidence": 0.44,
+      "top_features": [
+        {
+          "feature": 13505,
+          "z": 1.26
+        },
+        {
+          "feature": 5710,
+          "z": -1.26
+        },
+        {
+          "feature": 17239,
+          "z": 1.26
+        }
+      ]
+    },
+    {
+      "time_start": 4.0,
+      "time_end": 5.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Suppression / Drift",
+      "valence": -0.26,
+      "confidence": 0.52,
+      "top_features": [
+        {
+          "feature": 15252,
+          "z": -2.1
+        },
+        {
+          "feature": 17821,
+          "z": -1.95
+        },
+        {
+          "feature": 10852,
+          "z": -1.9
+        }
+      ]
+    },
+    {
+      "time_start": 5.0,
+      "time_end": 6.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.42,
+      "confidence": 0.66,
+      "top_features": [
+        {
+          "feature": 15252,
+          "z": -3.24
+        },
+        {
+          "feature": 959,
+          "z": -3.1
+        },
+        {
+          "feature": 17703,
+          "z": -3.05
+        }
+      ]
+    },
+    {
+      "time_start": 6.0,
+      "time_end": 7.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.01,
+      "confidence": 0.78,
+      "top_features": [
+        {
+          "feature": 959,
+          "z": -3.97
+        },
+        {
+          "feature": 3825,
+          "z": -3.71
+        },
+        {
+          "feature": 14122,
+          "z": -3.67
+        }
+      ]
+    },
+    {
+      "time_start": 7.0,
+      "time_end": 8.0,
+      "engagement": 0.0,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.04,
+      "confidence": 0.87,
+      "top_features": [
+        {
+          "feature": 959,
+          "z": -5.13
+        },
+        {
+          "feature": 14122,
+          "z": -4.83
+        },
+        {
+          "feature": 18283,
+          "z": -4.27
+        }
+      ]
+    },
+    {
+      "time_start": 8.0,
+      "time_end": 9.0,
+      "engagement": 17.483148857357556,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.28,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 14122,
+          "z": -5.43
+        },
+        {
+          "feature": 959,
+          "z": -5.35
+        },
+        {
+          "feature": 12794,
+          "z": 5.07
+        }
+      ]
+    },
+    {
+      "time_start": 9.0,
+      "time_end": 10.0,
+      "engagement": 39.143286579074605,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.27,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12491,
+          "z": -6.2
+        },
+        {
+          "feature": 7853,
+          "z": -6.16
+        },
+        {
+          "feature": 3225,
+          "z": -6.13
+        }
+      ]
+    },
+    {
+      "time_start": 10.0,
+      "time_end": 11.0,
+      "engagement": 37.55117315091966,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.24,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17616,
+          "z": -6.31
+        },
+        {
+          "feature": 11419,
+          "z": -6.26
+        },
+        {
+          "feature": 14122,
+          "z": -6.15
+        }
+      ]
+    },
+    {
+      "time_start": 11.0,
+      "time_end": 12.0,
+      "engagement": 47.081931819635486,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.63,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17616,
+          "z": -6.37
+        },
+        {
+          "feature": 11419,
+          "z": -6.33
+        },
+        {
+          "feature": 1306,
+          "z": -6.3
+        }
+      ]
+    },
+    {
+      "time_start": 12.0,
+      "time_end": 13.0,
+      "engagement": 34.80210018151638,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.51,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 1306,
+          "z": -6.25
+        },
+        {
+          "feature": 17872,
+          "z": 6.2
+        },
+        {
+          "feature": 12491,
+          "z": -6.16
+        }
+      ]
+    },
+    {
+      "time_start": 13.0,
+      "time_end": 14.0,
+      "engagement": 25.391720251541404,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.44,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 1306,
+          "z": -6.15
+        },
+        {
+          "feature": 17872,
+          "z": 6.07
+        },
+        {
+          "feature": 9053,
+          "z": 6.07
+        }
+      ]
+    },
+    {
+      "time_start": 14.0,
+      "time_end": 15.0,
+      "engagement": 19.20370961718378,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.32,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 9053,
+          "z": 6.2
+        },
+        {
+          "feature": 14080,
+          "z": -6.2
+        },
+        {
+          "feature": 18111,
+          "z": -6.18
+        }
+      ]
+    },
+    {
+      "time_start": 15.0,
+      "time_end": 16.0,
+      "engagement": 11.9564961129497,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.14,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 10501,
+          "z": 6.28
+        },
+        {
+          "feature": 18111,
+          "z": -6.21
+        },
+        {
+          "feature": 14080,
+          "z": -6.18
+        }
+      ]
+    },
+    {
+      "time_start": 16.0,
+      "time_end": 17.0,
+      "engagement": 1.1508497492875966,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.17,
+      "confidence": 0.93,
+      "top_features": [
+        {
+          "feature": 17915,
+          "z": -6.26
+        },
+        {
+          "feature": 14080,
+          "z": -5.99
+        },
+        {
+          "feature": 18111,
+          "z": -5.99
+        }
+      ]
+    },
+    {
+      "time_start": 17.0,
+      "time_end": 18.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.23,
+      "confidence": 0.9,
+      "top_features": [
+        {
+          "feature": 17915,
+          "z": -6.06
+        },
+        {
+          "feature": 10501,
+          "z": 5.86
+        },
+        {
+          "feature": 15090,
+          "z": 5.7
+        }
+      ]
+    },
+    {
+      "time_start": 18.0,
+      "time_end": 19.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 0.87,
+      "top_features": [
+        {
+          "feature": 17915,
+          "z": -5.86
+        },
+        {
+          "feature": 10638,
+          "z": -5.64
+        },
+        {
+          "feature": 10501,
+          "z": 5.58
+        }
+      ]
+    },
+    {
+      "time_start": 19.0,
+      "time_end": 20.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.61,
+      "confidence": 0.85,
+      "top_features": [
+        {
+          "feature": 17915,
+          "z": -5.85
+        },
+        {
+          "feature": 10638,
+          "z": -5.51
+        },
+        {
+          "feature": 7857,
+          "z": -5.5
+        }
+      ]
+    },
+    {
+      "time_start": 20.0,
+      "time_end": 21.0,
+      "engagement": 0.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.57,
+      "confidence": 0.87,
+      "top_features": [
+        {
+          "feature": 7860,
+          "z": -5.5
+        },
+        {
+          "feature": 9791,
+          "z": -5.48
+        },
+        {
+          "feature": 7857,
+          "z": -5.33
+        }
+      ]
+    },
+    {
+      "time_start": 21.0,
+      "time_end": 22.0,
+      "engagement": 16.969926332655156,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.51,
+      "confidence": 0.92,
+      "top_features": [
+        {
+          "feature": 11353,
+          "z": 5.75
+        },
+        {
+          "feature": 5363,
+          "z": -5.69
+        },
+        {
+          "feature": 16851,
+          "z": 5.63
+        }
+      ]
+    },
+    {
+      "time_start": 22.0,
+      "time_end": 23.0,
+      "engagement": 38.46329090628142,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.59,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 16851,
+          "z": 6.0
+        },
+        {
+          "feature": 5363,
+          "z": -5.84
+        },
+        {
+          "feature": 17852,
+          "z": 5.76
+        }
+      ]
+    },
+    {
+      "time_start": 23.0,
+      "time_end": 24.0,
+      "engagement": 44.329791451266914,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.6,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 9053,
+          "z": 5.88
+        },
+        {
+          "feature": 16851,
+          "z": 5.81
+        },
+        {
+          "feature": 5363,
+          "z": -5.8
+        }
+      ]
+    },
+    {
+      "time_start": 24.0,
+      "time_end": 25.0,
+      "engagement": 45.391061481315624,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.6,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.84
+        },
+        {
+          "feature": 5363,
+          "z": -5.79
+        },
+        {
+          "feature": 7857,
+          "z": -5.69
+        }
+      ]
+    },
+    {
+      "time_start": 25.0,
+      "time_end": 26.0,
+      "engagement": 27.2094041981706,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.45,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.86
+        },
+        {
+          "feature": 7857,
+          "z": -5.52
+        },
+        {
+          "feature": 1719,
+          "z": -5.52
+        }
+      ]
+    },
+    {
+      "time_start": 26.0,
+      "time_end": 27.0,
+      "engagement": 22.52318542895754,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.3,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.74
+        },
+        {
+          "feature": 8232,
+          "z": -5.56
+        },
+        {
+          "feature": 15917,
+          "z": -5.46
+        }
+      ]
+    },
+    {
+      "time_start": 27.0,
+      "time_end": 28.0,
+      "engagement": 27.025943732882812,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.28,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.73
+        },
+        {
+          "feature": 15155,
+          "z": -5.57
+        },
+        {
+          "feature": 1719,
+          "z": -5.53
+        }
+      ]
+    },
+    {
+      "time_start": 28.0,
+      "time_end": 29.0,
+      "engagement": 36.83106790252608,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.26,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1719,
+          "z": -5.52
+        },
+        {
+          "feature": 4111,
+          "z": -5.51
+        },
+        {
+          "feature": 14671,
+          "z": 5.49
+        }
+      ]
+    },
+    {
+      "time_start": 29.0,
+      "time_end": 30.0,
+      "engagement": 52.04891761805136,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.4,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.55
+        },
+        {
+          "feature": 5611,
+          "z": 5.52
+        },
+        {
+          "feature": 12504,
+          "z": -5.49
+        }
+      ]
+    },
+    {
+      "time_start": 30.0,
+      "time_end": 31.0,
+      "engagement": 51.96062987392014,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.36,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 7969,
+          "z": 5.55
+        },
+        {
+          "feature": 4111,
+          "z": -5.52
+        },
+        {
+          "feature": 14671,
+          "z": 5.49
+        }
+      ]
+    },
+    {
+      "time_start": 31.0,
+      "time_end": 32.0,
+      "engagement": 64.56912330878153,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.51,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -5.94
+        },
+        {
+          "feature": 14671,
+          "z": 5.78
+        },
+        {
+          "feature": 1464,
+          "z": 5.77
+        }
+      ]
+    },
+    {
+      "time_start": 32.0,
+      "time_end": 33.0,
+      "engagement": 66.04272511060927,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.52,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4111,
+          "z": -6.48
+        },
+        {
+          "feature": 1464,
+          "z": 6.14
+        },
+        {
+          "feature": 3224,
+          "z": -6.06
+        }
+      ]
+    },
+    {
+      "time_start": 33.0,
+      "time_end": 34.0,
+      "engagement": 57.59874256116435,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.53,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9766,
+          "z": -6.17
+        },
+        {
+          "feature": 1719,
+          "z": -6.16
+        },
+        {
+          "feature": 1306,
+          "z": -6.14
+        }
+      ]
+    },
+    {
+      "time_start": 34.0,
+      "time_end": 35.0,
+      "engagement": 55.370327224824976,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.37,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9766,
+          "z": -6.13
+        },
+        {
+          "feature": 3224,
+          "z": -6.13
+        },
+        {
+          "feature": 1304,
+          "z": -6.12
+        }
+      ]
+    },
+    {
+      "time_start": 35.0,
+      "time_end": 36.0,
+      "engagement": 55.37682877697965,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.46,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12504,
+          "z": -6.12
+        },
+        {
+          "feature": 9766,
+          "z": -6.01
+        },
+        {
+          "feature": 16972,
+          "z": -5.95
+        }
+      ]
+    },
+    {
+      "time_start": 36.0,
+      "time_end": 37.0,
+      "engagement": 57.57407000426967,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.45,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12504,
+          "z": -5.93
+        },
+        {
+          "feature": 9766,
+          "z": -5.89
+        },
+        {
+          "feature": 5363,
+          "z": -5.86
+        }
+      ]
+    },
+    {
+      "time_start": 37.0,
+      "time_end": 38.0,
+      "engagement": 53.0983014771096,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.27,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9766,
+          "z": -5.83
+        },
+        {
+          "feature": 5363,
+          "z": -5.7
+        },
+        {
+          "feature": 1604,
+          "z": 5.63
+        }
+      ]
+    },
+    {
+      "time_start": 38.0,
+      "time_end": 39.0,
+      "engagement": 43.47715456279719,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.19,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15665,
+          "z": -5.99
+        },
+        {
+          "feature": 17889,
+          "z": -5.73
+        },
+        {
+          "feature": 14671,
+          "z": 5.68
+        }
+      ]
+    },
+    {
+      "time_start": 39.0,
+      "time_end": 40.0,
+      "engagement": 38.73330536845919,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.14,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15665,
+          "z": -6.02
+        },
+        {
+          "feature": 17889,
+          "z": -5.79
+        },
+        {
+          "feature": 3224,
+          "z": -5.67
+        }
+      ]
+    },
+    {
+      "time_start": 40.0,
+      "time_end": 41.0,
+      "engagement": 40.73751717934146,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.08,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 678,
+          "z": 6.19
+        },
+        {
+          "feature": 17889,
+          "z": -6.1
+        },
+        {
+          "feature": 13339,
+          "z": -6.06
+        }
+      ]
+    },
+    {
+      "time_start": 41.0,
+      "time_end": 42.0,
+      "engagement": 38.63119765833763,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.15,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 678,
+          "z": 6.48
+        },
+        {
+          "feature": 18517,
+          "z": -6.39
+        },
+        {
+          "feature": 18515,
+          "z": -6.25
+        }
+      ]
+    },
+    {
+      "time_start": 42.0,
+      "time_end": 43.0,
+      "engagement": 38.1802733397943,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.04,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 678,
+          "z": 6.13
+        },
+        {
+          "feature": 18515,
+          "z": -5.83
+        },
+        {
+          "feature": 7362,
+          "z": 5.83
+        }
+      ]
+    },
+    {
+      "time_start": 43.0,
+      "time_end": 44.0,
+      "engagement": 45.541497395786955,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.23,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -5.91
+        },
+        {
+          "feature": 17889,
+          "z": -5.89
+        },
+        {
+          "feature": 20421,
+          "z": -5.87
+        }
+      ]
+    },
+    {
+      "time_start": 44.0,
+      "time_end": 45.0,
+      "engagement": 64.41478646301738,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.33,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18518,
+          "z": -6.17
+        },
+        {
+          "feature": 17889,
+          "z": -6.12
+        },
+        {
+          "feature": 16657,
+          "z": 6.06
+        }
+      ]
+    },
+    {
+      "time_start": 45.0,
+      "time_end": 46.0,
+      "engagement": 74.90007301191933,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.34,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17889,
+          "z": -6.45
+        },
+        {
+          "feature": 4111,
+          "z": -6.24
+        },
+        {
+          "feature": 13581,
+          "z": -6.19
+        }
+      ]
+    },
+    {
+      "time_start": 46.0,
+      "time_end": 47.0,
+      "engagement": 93.73325250354935,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.45,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 3825,
+          "z": -6.64
+        },
+        {
+          "feature": 11885,
+          "z": -6.62
+        },
+        {
+          "feature": 17889,
+          "z": -6.5
+        }
+      ]
+    },
+    {
+      "time_start": 47.0,
+      "time_end": 48.0,
+      "engagement": 75.47062589010876,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -6.42
+        },
+        {
+          "feature": 3224,
+          "z": -6.24
+        },
+        {
+          "feature": 18517,
+          "z": -6.21
+        }
+      ]
+    },
+    {
+      "time_start": 48.0,
+      "time_end": 49.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.75,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13339,
+          "z": -6.57
+        },
+        {
+          "feature": 11885,
+          "z": -6.48
+        },
+        {
+          "feature": 9766,
+          "z": -6.45
+        }
+      ]
+    },
+    {
+      "time_start": 49.0,
+      "time_end": 50.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.98,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13339,
+          "z": -6.88
+        },
+        {
+          "feature": 11885,
+          "z": -6.85
+        },
+        {
+          "feature": 19547,
+          "z": -6.79
+        }
+      ]
+    },
+    {
+      "time_start": 50.0,
+      "time_end": 51.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.13,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 3224,
+          "z": -7.06
+        },
+        {
+          "feature": 13339,
+          "z": -6.94
+        },
+        {
+          "feature": 19547,
+          "z": -6.77
+        }
+      ]
+    },
+    {
+      "time_start": 51.0,
+      "time_end": 52.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.95,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13339,
+          "z": -7.55
+        },
+        {
+          "feature": 3224,
+          "z": -7.37
+        },
+        {
+          "feature": 7852,
+          "z": -7.15
+        }
+      ]
+    },
+    {
+      "time_start": 52.0,
+      "time_end": 53.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.82,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13339,
+          "z": -6.91
+        },
+        {
+          "feature": 18518,
+          "z": -6.56
+        },
+        {
+          "feature": 7852,
+          "z": -6.5
+        }
+      ]
+    },
+    {
+      "time_start": 53.0,
+      "time_end": 54.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.69,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13339,
+          "z": -6.56
+        },
+        {
+          "feature": 16895,
+          "z": 6.52
+        },
+        {
+          "feature": 9766,
+          "z": -6.44
+        }
+      ]
+    },
+    {
+      "time_start": 54.0,
+      "time_end": 55.0,
+      "engagement": 94.88359379811718,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.56,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16895,
+          "z": 6.33
+        },
+        {
+          "feature": 10501,
+          "z": 6.24
+        },
+        {
+          "feature": 17856,
+          "z": 6.23
+        }
+      ]
+    },
+    {
+      "time_start": 55.0,
+      "time_end": 56.0,
+      "engagement": 83.9282616990785,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.36,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16895,
+          "z": 6.38
+        },
+        {
+          "feature": 17855,
+          "z": 6.22
+        },
+        {
+          "feature": 17856,
+          "z": 6.21
+        }
+      ]
+    },
+    {
+      "time_start": 56.0,
+      "time_end": 57.0,
+      "engagement": 74.74450253831047,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.05,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17855,
+          "z": 6.68
+        },
+        {
+          "feature": 10501,
+          "z": 6.61
+        },
+        {
+          "feature": 16895,
+          "z": 6.55
+        }
+      ]
+    },
+    {
+      "time_start": 57.0,
+      "time_end": 58.0,
+      "engagement": 59.935233699090354,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.08,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 6609,
+          "z": 6.32
+        },
+        {
+          "feature": 16179,
+          "z": 6.23
+        },
+        {
+          "feature": 17854,
+          "z": 6.2
+        }
+      ]
+    },
+    {
+      "time_start": 58.0,
+      "time_end": 59.0,
+      "engagement": 62.080879275306714,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.07,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5830,
+          "z": 6.3
+        },
+        {
+          "feature": 11045,
+          "z": 6.23
+        },
+        {
+          "feature": 7004,
+          "z": 6.21
+        }
+      ]
+    },
+    {
+      "time_start": 59.0,
+      "time_end": 60.0,
+      "engagement": 55.35762419215352,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.25,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5830,
+          "z": 6.23
+        },
+        {
+          "feature": 3399,
+          "z": 6.21
+        },
+        {
+          "feature": 4773,
+          "z": 6.18
+        }
+      ]
+    },
+    {
+      "time_start": 60.0,
+      "time_end": 61.0,
+      "engagement": 53.22628203067746,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.36,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17854,
+          "z": 6.27
+        },
+        {
+          "feature": 11682,
+          "z": 6.2
+        },
+        {
+          "feature": 4773,
+          "z": 6.13
+        }
+      ]
+    },
+    {
+      "time_start": 61.0,
+      "time_end": 62.0,
+      "engagement": 55.546836030501225,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.37,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1139,
+          "z": 6.11
+        },
+        {
+          "feature": 17902,
+          "z": 6.07
+        },
+        {
+          "feature": 11969,
+          "z": -6.05
+        }
+      ]
+    },
+    {
+      "time_start": 62.0,
+      "time_end": 63.0,
+      "engagement": 39.72712596256475,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11969,
+          "z": -6.17
+        },
+        {
+          "feature": 14083,
+          "z": -6.09
+        },
+        {
+          "feature": 20419,
+          "z": -6.08
+        }
+      ]
+    },
+    {
+      "time_start": 63.0,
+      "time_end": 64.0,
+      "engagement": 44.23535223855857,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.14,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11969,
+          "z": -6.35
+        },
+        {
+          "feature": 6471,
+          "z": -6.2
+        },
+        {
+          "feature": 14083,
+          "z": -6.16
+        }
+      ]
+    },
+    {
+      "time_start": 64.0,
+      "time_end": 65.0,
+      "engagement": 49.13553875624676,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.37,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1139,
+          "z": 6.05
+        },
+        {
+          "feature": 11969,
+          "z": -6.03
+        },
+        {
+          "feature": 14081,
+          "z": -5.97
+        }
+      ]
+    },
+    {
+      "time_start": 65.0,
+      "time_end": 66.0,
+      "engagement": 32.66468990469594,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.09,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11969,
+          "z": -6.03
+        },
+        {
+          "feature": 6471,
+          "z": -5.89
+        },
+        {
+          "feature": 14081,
+          "z": -5.86
+        }
+      ]
+    },
+    {
+      "time_start": 66.0,
+      "time_end": 67.0,
+      "engagement": 28.88567105011226,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.05,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17217,
+          "z": -5.63
+        },
+        {
+          "feature": 11969,
+          "z": -5.57
+        },
+        {
+          "feature": 9053,
+          "z": 5.46
+        }
+      ]
+    },
+    {
+      "time_start": 67.0,
+      "time_end": 68.0,
+      "engagement": 32.70229888331378,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.09,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.68
+        },
+        {
+          "feature": 17217,
+          "z": -5.67
+        },
+        {
+          "feature": 17854,
+          "z": 5.64
+        }
+      ]
+    },
+    {
+      "time_start": 68.0,
+      "time_end": 69.0,
+      "engagement": 38.22746794017864,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.17,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9053,
+          "z": 5.79
+        },
+        {
+          "feature": 17854,
+          "z": 5.77
+        },
+        {
+          "feature": 4774,
+          "z": 5.72
+        }
+      ]
+    },
+    {
+      "time_start": 69.0,
+      "time_end": 70.0,
+      "engagement": 48.294471296483046,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.28,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16895,
+          "z": 6.0
+        },
+        {
+          "feature": 10501,
+          "z": 5.92
+        },
+        {
+          "feature": 17217,
+          "z": -5.9
+        }
+      ]
+    },
+    {
+      "time_start": 70.0,
+      "time_end": 71.0,
+      "engagement": 60.747144198037304,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.4,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 2214,
+          "z": 6.06
+        },
+        {
+          "feature": 10501,
+          "z": 5.99
+        },
+        {
+          "feature": 16895,
+          "z": 5.97
+        }
+      ]
+    },
+    {
+      "time_start": 71.0,
+      "time_end": 72.0,
+      "engagement": 51.99342103568488,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11379,
+          "z": 5.66
+        },
+        {
+          "feature": 10501,
+          "z": 5.6
+        },
+        {
+          "feature": 15091,
+          "z": 5.59
+        }
+      ]
+    },
+    {
+      "time_start": 72.0,
+      "time_end": 73.0,
+      "engagement": 56.97067595237585,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.57,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 6658,
+          "z": 5.5
+        },
+        {
+          "feature": 8232,
+          "z": -5.46
+        },
+        {
+          "feature": 16895,
+          "z": 5.44
+        }
+      ]
+    },
+    {
+      "time_start": 73.0,
+      "time_end": 74.0,
+      "engagement": 55.31364702655341,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.49,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 2214,
+          "z": 5.73
+        },
+        {
+          "feature": 11858,
+          "z": 5.5
+        },
+        {
+          "feature": 8232,
+          "z": -5.48
+        }
+      ]
+    },
+    {
+      "time_start": 74.0,
+      "time_end": 75.0,
+      "engagement": 48.326979057256445,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.43,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 6658,
+          "z": 5.61
+        },
+        {
+          "feature": 7969,
+          "z": 5.58
+        },
+        {
+          "feature": 4970,
+          "z": -5.58
+        }
+      ]
+    },
+    {
+      "time_start": 75.0,
+      "time_end": 76.0,
+      "engagement": 46.49792572967984,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.43,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11379,
+          "z": 5.64
+        },
+        {
+          "feature": 11858,
+          "z": 5.57
+        },
+        {
+          "feature": 6606,
+          "z": 5.53
+        }
+      ]
+    },
+    {
+      "time_start": 76.0,
+      "time_end": 77.0,
+      "engagement": 43.57706174757408,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.38,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11858,
+          "z": 5.75
+        },
+        {
+          "feature": 6606,
+          "z": 5.67
+        },
+        {
+          "feature": 17854,
+          "z": 5.66
+        }
+      ]
+    },
+    {
+      "time_start": 77.0,
+      "time_end": 78.0,
+      "engagement": 38.12025901221265,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.38,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.83
+        },
+        {
+          "feature": 11858,
+          "z": 5.74
+        },
+        {
+          "feature": 17854,
+          "z": 5.6
+        }
+      ]
+    },
+    {
+      "time_start": 78.0,
+      "time_end": 79.0,
+      "engagement": 43.74365151855281,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.43,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.72
+        },
+        {
+          "feature": 14575,
+          "z": 5.7
+        },
+        {
+          "feature": 20082,
+          "z": -5.68
+        }
+      ]
+    },
+    {
+      "time_start": 79.0,
+      "time_end": 80.0,
+      "engagement": 51.82899844875772,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -6.0
+        },
+        {
+          "feature": 20082,
+          "z": -5.93
+        },
+        {
+          "feature": 7855,
+          "z": -5.77
+        }
+      ]
+    },
+    {
+      "time_start": 80.0,
+      "time_end": 81.0,
+      "engagement": 72.39452484732514,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.6,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17891,
+          "z": -5.8
+        },
+        {
+          "feature": 4844,
+          "z": -5.76
+        },
+        {
+          "feature": 8232,
+          "z": -5.72
+        }
+      ]
+    },
+    {
+      "time_start": 81.0,
+      "time_end": 82.0,
+      "engagement": 98.83907144643746,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.84,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4844,
+          "z": -6.15
+        },
+        {
+          "feature": 14419,
+          "z": -6.11
+        },
+        {
+          "feature": 15557,
+          "z": -6.11
+        }
+      ]
+    },
+    {
+      "time_start": 82.0,
+      "time_end": 83.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.96,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 14419,
+          "z": -6.56
+        },
+        {
+          "feature": 9141,
+          "z": -6.55
+        },
+        {
+          "feature": 15557,
+          "z": -6.37
+        }
+      ]
+    },
+    {
+      "time_start": 83.0,
+      "time_end": 84.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.24,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 19962,
+          "z": -6.73
+        },
+        {
+          "feature": 9141,
+          "z": -6.64
+        },
+        {
+          "feature": 15557,
+          "z": -6.59
+        }
+      ]
+    },
+    {
+      "time_start": 84.0,
+      "time_end": 85.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.23,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12145,
+          "z": -6.74
+        },
+        {
+          "feature": 12423,
+          "z": -6.44
+        },
+        {
+          "feature": 18562,
+          "z": -6.43
+        }
+      ]
+    },
+    {
+      "time_start": 85.0,
+      "time_end": 86.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.23,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12145,
+          "z": -6.64
+        },
+        {
+          "feature": 18562,
+          "z": -6.63
+        },
+        {
+          "feature": 13340,
+          "z": -6.51
+        }
+      ]
+    },
+    {
+      "time_start": 86.0,
+      "time_end": 87.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.04,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11421,
+          "z": -6.59
+        },
+        {
+          "feature": 9766,
+          "z": -6.51
+        },
+        {
+          "feature": 13340,
+          "z": -6.37
+        }
+      ]
+    },
+    {
+      "time_start": 87.0,
+      "time_end": 88.0,
+      "engagement": 100.0,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.87,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11421,
+          "z": -7.0
+        },
+        {
+          "feature": 9766,
+          "z": -6.68
+        },
+        {
+          "feature": 5363,
+          "z": -6.51
+        }
+      ]
+    },
+    {
+      "time_start": 88.0,
+      "time_end": 89.0,
+      "engagement": 92.98380691722697,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.52,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 6.75
+        },
+        {
+          "feature": 11421,
+          "z": -6.71
+        },
+        {
+          "feature": 5363,
+          "z": -6.61
+        }
+      ]
+    },
+    {
+      "time_start": 89.0,
+      "time_end": 90.0,
+      "engagement": 90.0662437231382,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.31,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 6.91
+        },
+        {
+          "feature": 5363,
+          "z": -6.82
+        },
+        {
+          "feature": 11421,
+          "z": -6.7
+        }
+      ]
+    },
+    {
+      "time_start": 90.0,
+      "time_end": 91.0,
+      "engagement": 86.01344284025635,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.01,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 7969,
+          "z": 6.46
+        },
+        {
+          "feature": 325,
+          "z": 6.42
+        },
+        {
+          "feature": 7855,
+          "z": -6.31
+        }
+      ]
+    },
+    {
+      "time_start": 91.0,
+      "time_end": 92.0,
+      "engagement": 88.12414674130295,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.02,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 7969,
+          "z": 6.49
+        },
+        {
+          "feature": 11580,
+          "z": 6.43
+        },
+        {
+          "feature": 10571,
+          "z": 6.32
+        }
+      ]
+    },
+    {
+      "time_start": 92.0,
+      "time_end": 93.0,
+      "engagement": 84.8216583183641,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.02,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 7969,
+          "z": 6.38
+        },
+        {
+          "feature": 11580,
+          "z": 6.36
+        },
+        {
+          "feature": 10571,
+          "z": 6.34
+        }
+      ]
+    },
+    {
+      "time_start": 93.0,
+      "time_end": 94.0,
+      "engagement": 92.22862662849121,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1871,
+          "z": -6.34
+        },
+        {
+          "feature": 20462,
+          "z": 6.27
+        },
+        {
+          "feature": 16959,
+          "z": 6.26
+        }
+      ]
+    },
+    {
+      "time_start": 94.0,
+      "time_end": 95.0,
+      "engagement": 93.6145575001101,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.2,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4720,
+          "z": 6.42
+        },
+        {
+          "feature": 14100,
+          "z": 6.35
+        },
+        {
+          "feature": 6093,
+          "z": 6.3
+        }
+      ]
+    },
+    {
+      "time_start": 95.0,
+      "time_end": 96.0,
+      "engagement": 96.47774104515128,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 14100,
+          "z": 6.59
+        },
+        {
+          "feature": 4720,
+          "z": 6.58
+        },
+        {
+          "feature": 918,
+          "z": 6.39
+        }
+      ]
+    },
+    {
+      "time_start": 96.0,
+      "time_end": 97.0,
+      "engagement": 97.03050634347136,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 14100,
+          "z": 6.5
+        },
+        {
+          "feature": 4720,
+          "z": 6.22
+        },
+        {
+          "feature": 918,
+          "z": 6.2
+        }
+      ]
+    },
+    {
+      "time_start": 97.0,
+      "time_end": 98.0,
+      "engagement": 89.45826524344301,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.09,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 6.56
+        },
+        {
+          "feature": 5363,
+          "z": -6.49
+        },
+        {
+          "feature": 7623,
+          "z": 6.4
+        }
+      ]
+    },
+    {
+      "time_start": 98.0,
+      "time_end": 99.0,
+      "engagement": 84.75225841677454,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.05,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5363,
+          "z": -6.64
+        },
+        {
+          "feature": 5611,
+          "z": 6.57
+        },
+        {
+          "feature": 5482,
+          "z": 6.29
+        }
+      ]
+    },
+    {
+      "time_start": 99.0,
+      "time_end": 100.0,
+      "engagement": 80.64549465100885,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.05,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5363,
+          "z": -6.74
+        },
+        {
+          "feature": 5611,
+          "z": 6.63
+        },
+        {
+          "feature": 5482,
+          "z": 6.48
+        }
+      ]
+    },
+    {
+      "time_start": 100.0,
+      "time_end": 101.0,
+      "engagement": 32.906430950324136,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.32,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1110,
+          "z": 5.87
+        },
+        {
+          "feature": 6608,
+          "z": 5.86
+        },
+        {
+          "feature": 8190,
+          "z": 5.81
+        }
+      ]
+    },
+    {
+      "time_start": 101.0,
+      "time_end": 102.0,
+      "engagement": 36.99357336509994,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.27,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 6.22
+        },
+        {
+          "feature": 11885,
+          "z": -5.87
+        },
+        {
+          "feature": 5693,
+          "z": 5.83
+        }
+      ]
+    },
+    {
+      "time_start": 102.0,
+      "time_end": 103.0,
+      "engagement": 29.62012972518579,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.07,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 6.08
+        },
+        {
+          "feature": 5693,
+          "z": 5.77
+        },
+        {
+          "feature": 9032,
+          "z": -5.71
+        }
+      ]
+    },
+    {
+      "time_start": 103.0,
+      "time_end": 104.0,
+      "engagement": 47.81892443298468,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12145,
+          "z": -6.2
+        },
+        {
+          "feature": 17844,
+          "z": -6.18
+        },
+        {
+          "feature": 5693,
+          "z": 5.91
+        }
+      ]
+    },
+    {
+      "time_start": 104.0,
+      "time_end": 105.0,
+      "engagement": 44.2674432331682,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.14,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5611,
+          "z": 5.98
+        },
+        {
+          "feature": 11885,
+          "z": -5.94
+        },
+        {
+          "feature": 11660,
+          "z": 5.91
+        }
+      ]
+    },
+    {
+      "time_start": 105.0,
+      "time_end": 106.0,
+      "engagement": 42.641371697989975,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.12,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1110,
+          "z": 6.02
+        },
+        {
+          "feature": 8190,
+          "z": 6.0
+        },
+        {
+          "feature": 6608,
+          "z": 5.99
+        }
+      ]
+    },
+    {
+      "time_start": 106.0,
+      "time_end": 107.0,
+      "engagement": 46.24723254685405,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.31,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -6.42
+        },
+        {
+          "feature": 17917,
+          "z": -5.92
+        },
+        {
+          "feature": 5363,
+          "z": -5.92
+        }
+      ]
+    },
+    {
+      "time_start": 107.0,
+      "time_end": 108.0,
+      "engagement": 48.55930118758363,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.44,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -6.38
+        },
+        {
+          "feature": 17917,
+          "z": -6.18
+        },
+        {
+          "feature": 9041,
+          "z": -6.03
+        }
+      ]
+    },
+    {
+      "time_start": 108.0,
+      "time_end": 109.0,
+      "engagement": 38.999985701326864,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.03,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -5.98
+        },
+        {
+          "feature": 9041,
+          "z": -5.78
+        },
+        {
+          "feature": 9032,
+          "z": -5.72
+        }
+      ]
+    },
+    {
+      "time_start": 109.0,
+      "time_end": 110.0,
+      "engagement": 53.650166560515956,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.15,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9041,
+          "z": -6.32
+        },
+        {
+          "feature": 18111,
+          "z": -6.08
+        },
+        {
+          "feature": 9032,
+          "z": -6.05
+        }
+      ]
+    },
+    {
+      "time_start": 110.0,
+      "time_end": 111.0,
+      "engagement": 55.81921772448916,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.08,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -5.71
+        },
+        {
+          "feature": 7973,
+          "z": 5.61
+        },
+        {
+          "feature": 1025,
+          "z": 5.52
+        }
+      ]
+    },
+    {
+      "time_start": 111.0,
+      "time_end": 112.0,
+      "engagement": 44.627112432494336,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.37,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17916,
+          "z": -5.83
+        },
+        {
+          "feature": 9032,
+          "z": -5.71
+        },
+        {
+          "feature": 8231,
+          "z": -5.67
+        }
+      ]
+    },
+    {
+      "time_start": 112.0,
+      "time_end": 113.0,
+      "engagement": 62.112770222157735,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.26,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.69
+        },
+        {
+          "feature": 8231,
+          "z": -5.54
+        },
+        {
+          "feature": 7973,
+          "z": 5.53
+        }
+      ]
+    },
+    {
+      "time_start": 113.0,
+      "time_end": 114.0,
+      "engagement": 69.4868473466408,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.18,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18213,
+          "z": -5.78
+        },
+        {
+          "feature": 8232,
+          "z": -5.76
+        },
+        {
+          "feature": 18212,
+          "z": -5.66
+        }
+      ]
+    },
+    {
+      "time_start": 114.0,
+      "time_end": 115.0,
+      "engagement": 64.72446039333869,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.32,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.71
+        },
+        {
+          "feature": 18111,
+          "z": -5.68
+        },
+        {
+          "feature": 5429,
+          "z": 5.44
+        }
+      ]
+    },
+    {
+      "time_start": 115.0,
+      "time_end": 116.0,
+      "engagement": 75.5156032945019,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.96,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -6.52
+        },
+        {
+          "feature": 8232,
+          "z": -6.01
+        },
+        {
+          "feature": 8231,
+          "z": -5.99
+        }
+      ]
+    },
+    {
+      "time_start": 116.0,
+      "time_end": 117.0,
+      "engagement": 69.25345829493439,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.87,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -6.3
+        },
+        {
+          "feature": 4970,
+          "z": -6.22
+        },
+        {
+          "feature": 20420,
+          "z": -6.05
+        }
+      ]
+    },
+    {
+      "time_start": 117.0,
+      "time_end": 118.0,
+      "engagement": 62.68459006948499,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.81,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.99
+        },
+        {
+          "feature": 8231,
+          "z": -5.77
+        },
+        {
+          "feature": 15943,
+          "z": -5.7
+        }
+      ]
+    },
+    {
+      "time_start": 118.0,
+      "time_end": 119.0,
+      "engagement": 68.06802528937787,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.88,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.83
+        },
+        {
+          "feature": 8232,
+          "z": -5.68
+        },
+        {
+          "feature": 15943,
+          "z": -5.4
+        }
+      ]
+    },
+    {
+      "time_start": 119.0,
+      "time_end": 120.0,
+      "engagement": 69.14193166951182,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.9,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -5.78
+        },
+        {
+          "feature": 8232,
+          "z": -5.66
+        },
+        {
+          "feature": 11885,
+          "z": -5.52
+        }
+      ]
+    },
+    {
+      "time_start": 120.0,
+      "time_end": 121.0,
+      "engagement": 61.83275337204969,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.72,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.67
+        },
+        {
+          "feature": 8233,
+          "z": -5.5
+        },
+        {
+          "feature": 15943,
+          "z": -5.5
+        }
+      ]
+    },
+    {
+      "time_start": 121.0,
+      "time_end": 122.0,
+      "engagement": 60.03520756645345,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.73,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.69
+        },
+        {
+          "feature": 8231,
+          "z": -5.57
+        },
+        {
+          "feature": 15181,
+          "z": 5.2
+        }
+      ]
+    },
+    {
+      "time_start": 122.0,
+      "time_end": 123.0,
+      "engagement": 65.40742344121786,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.7,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.54
+        },
+        {
+          "feature": 11885,
+          "z": -5.41
+        },
+        {
+          "feature": 17916,
+          "z": -5.39
+        }
+      ]
+    },
+    {
+      "time_start": 123.0,
+      "time_end": 124.0,
+      "engagement": 71.15614586832437,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.75,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.85
+        },
+        {
+          "feature": 9032,
+          "z": -5.76
+        },
+        {
+          "feature": 8232,
+          "z": -5.73
+        }
+      ]
+    },
+    {
+      "time_start": 124.0,
+      "time_end": 125.0,
+      "engagement": 80.92409449616011,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.84,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17916,
+          "z": -6.22
+        },
+        {
+          "feature": 9032,
+          "z": -6.13
+        },
+        {
+          "feature": 9041,
+          "z": -6.13
+        }
+      ]
+    },
+    {
+      "time_start": 125.0,
+      "time_end": 126.0,
+      "engagement": 89.17929864406764,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.68,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 17916,
+          "z": -6.2
+        },
+        {
+          "feature": 9032,
+          "z": -6.17
+        },
+        {
+          "feature": 9041,
+          "z": -6.0
+        }
+      ]
+    },
+    {
+      "time_start": 126.0,
+      "time_end": 127.0,
+      "engagement": 82.74988037701283,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16930,
+          "z": 6.15
+        },
+        {
+          "feature": 11163,
+          "z": 5.99
+        },
+        {
+          "feature": 15181,
+          "z": 5.95
+        }
+      ]
+    },
+    {
+      "time_start": 127.0,
+      "time_end": 128.0,
+      "engagement": 69.93025320358988,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.28,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16930,
+          "z": 6.23
+        },
+        {
+          "feature": 11163,
+          "z": 6.04
+        },
+        {
+          "feature": 15148,
+          "z": 5.97
+        }
+      ]
+    },
+    {
+      "time_start": 128.0,
+      "time_end": 129.0,
+      "engagement": 68.26680607884553,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.29,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16930,
+          "z": 5.99
+        },
+        {
+          "feature": 13592,
+          "z": 5.97
+        },
+        {
+          "feature": 11163,
+          "z": 5.97
+        }
+      ]
+    },
+    {
+      "time_start": 129.0,
+      "time_end": 130.0,
+      "engagement": 58.71852656060517,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.07,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16930,
+          "z": 6.06
+        },
+        {
+          "feature": 14063,
+          "z": 6.0
+        },
+        {
+          "feature": 11163,
+          "z": 5.99
+        }
+      ]
+    },
+    {
+      "time_start": 130.0,
+      "time_end": 131.0,
+      "engagement": 67.38979670511902,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.27,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11035,
+          "z": 6.83
+        },
+        {
+          "feature": 14063,
+          "z": 6.73
+        },
+        {
+          "feature": 18032,
+          "z": 6.71
+        }
+      ]
+    },
+    {
+      "time_start": 131.0,
+      "time_end": 132.0,
+      "engagement": 56.4594872465526,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.07,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 10501,
+          "z": 5.96
+        },
+        {
+          "feature": 9032,
+          "z": -5.95
+        },
+        {
+          "feature": 18033,
+          "z": 5.91
+        }
+      ]
+    },
+    {
+      "time_start": 132.0,
+      "time_end": 133.0,
+      "engagement": 62.88880548972811,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.04,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18033,
+          "z": 6.11
+        },
+        {
+          "feature": 19437,
+          "z": 6.05
+        },
+        {
+          "feature": 10501,
+          "z": 6.04
+        }
+      ]
+    },
+    {
+      "time_start": 133.0,
+      "time_end": 134.0,
+      "engagement": 61.79392743623367,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.1,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9032,
+          "z": -6.01
+        },
+        {
+          "feature": 18111,
+          "z": -5.83
+        },
+        {
+          "feature": 10501,
+          "z": 5.73
+        }
+      ]
+    },
+    {
+      "time_start": 134.0,
+      "time_end": 135.0,
+      "engagement": 60.32954450194834,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -5.7
+        },
+        {
+          "feature": 9032,
+          "z": -5.65
+        },
+        {
+          "feature": 19470,
+          "z": 5.62
+        }
+      ]
+    },
+    {
+      "time_start": 135.0,
+      "time_end": 136.0,
+      "engagement": 56.113704695803,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.29,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -6.27
+        },
+        {
+          "feature": 4778,
+          "z": 5.88
+        },
+        {
+          "feature": 15943,
+          "z": -5.75
+        }
+      ]
+    },
+    {
+      "time_start": 136.0,
+      "time_end": 137.0,
+      "engagement": 62.91089409640747,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.14,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4778,
+          "z": 5.8
+        },
+        {
+          "feature": 18111,
+          "z": -5.77
+        },
+        {
+          "feature": 4774,
+          "z": 5.63
+        }
+      ]
+    },
+    {
+      "time_start": 137.0,
+      "time_end": 138.0,
+      "engagement": 54.345182485851105,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.1,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4778,
+          "z": 5.76
+        },
+        {
+          "feature": 11877,
+          "z": 5.73
+        },
+        {
+          "feature": 9053,
+          "z": 5.63
+        }
+      ]
+    },
+    {
+      "time_start": 138.0,
+      "time_end": 139.0,
+      "engagement": 51.74571189859163,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.19,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -6.07
+        },
+        {
+          "feature": 8231,
+          "z": -6.01
+        },
+        {
+          "feature": 1718,
+          "z": -5.79
+        }
+      ]
+    },
+    {
+      "time_start": 139.0,
+      "time_end": 140.0,
+      "engagement": 43.11556823911775,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.49,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -5.82
+        },
+        {
+          "feature": 8231,
+          "z": -5.74
+        },
+        {
+          "feature": 18111,
+          "z": -5.68
+        }
+      ]
+    },
+    {
+      "time_start": 140.0,
+      "time_end": 141.0,
+      "engagement": 43.24341542751321,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.34,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.19
+        },
+        {
+          "feature": 8232,
+          "z": -5.75
+        },
+        {
+          "feature": 18111,
+          "z": -5.71
+        }
+      ]
+    },
+    {
+      "time_start": 141.0,
+      "time_end": 142.0,
+      "engagement": 37.226378944177085,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.39,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.11
+        },
+        {
+          "feature": 7969,
+          "z": 5.56
+        },
+        {
+          "feature": 8232,
+          "z": -5.53
+        }
+      ]
+    },
+    {
+      "time_start": 142.0,
+      "time_end": 143.0,
+      "engagement": 46.633508098074714,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.66,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.08
+        },
+        {
+          "feature": 15943,
+          "z": -5.61
+        },
+        {
+          "feature": 18111,
+          "z": -5.6
+        }
+      ]
+    },
+    {
+      "time_start": 143.0,
+      "time_end": 144.0,
+      "engagement": 60.08143526933787,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.92,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -6.18
+        },
+        {
+          "feature": 18111,
+          "z": -5.98
+        },
+        {
+          "feature": 8231,
+          "z": -5.9
+        }
+      ]
+    },
+    {
+      "time_start": 144.0,
+      "time_end": 145.0,
+      "engagement": 55.98045621792519,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.88,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.07
+        },
+        {
+          "feature": 15943,
+          "z": -5.91
+        },
+        {
+          "feature": 8232,
+          "z": -5.74
+        }
+      ]
+    },
+    {
+      "time_start": 145.0,
+      "time_end": 146.0,
+      "engagement": 57.476646745828795,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.86,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.2
+        },
+        {
+          "feature": 8232,
+          "z": -5.76
+        },
+        {
+          "feature": 15943,
+          "z": -5.68
+        }
+      ]
+    },
+    {
+      "time_start": 146.0,
+      "time_end": 147.0,
+      "engagement": 72.31875675875331,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.97,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.91
+        },
+        {
+          "feature": 8232,
+          "z": -5.81
+        },
+        {
+          "feature": 3826,
+          "z": -5.71
+        }
+      ]
+    },
+    {
+      "time_start": 147.0,
+      "time_end": 148.0,
+      "engagement": 84.35488021495128,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -1.07,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 20482,
+          "z": -5.88
+        },
+        {
+          "feature": 12504,
+          "z": -5.82
+        },
+        {
+          "feature": 13724,
+          "z": -5.82
+        }
+      ]
+    },
+    {
+      "time_start": 148.0,
+      "time_end": 149.0,
+      "engagement": 76.3561039522829,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.98,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 20482,
+          "z": -5.75
+        },
+        {
+          "feature": 12504,
+          "z": -5.74
+        },
+        {
+          "feature": 8232,
+          "z": -5.69
+        }
+      ]
+    },
+    {
+      "time_start": 149.0,
+      "time_end": 150.0,
+      "engagement": 70.56370443121419,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.85,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.54
+        },
+        {
+          "feature": 11968,
+          "z": -5.47
+        },
+        {
+          "feature": 15731,
+          "z": -5.45
+        }
+      ]
+    },
+    {
+      "time_start": 150.0,
+      "time_end": 151.0,
+      "engagement": 79.73541071452624,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.96,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8232,
+          "z": -5.52
+        },
+        {
+          "feature": 8231,
+          "z": -5.48
+        },
+        {
+          "feature": 15255,
+          "z": -5.43
+        }
+      ]
+    },
+    {
+      "time_start": 151.0,
+      "time_end": 152.0,
+      "engagement": 67.50474081308444,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.85,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.56
+        },
+        {
+          "feature": 8232,
+          "z": -5.49
+        },
+        {
+          "feature": 15255,
+          "z": -5.45
+        }
+      ]
+    },
+    {
+      "time_start": 152.0,
+      "time_end": 153.0,
+      "engagement": 63.632199631352684,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.85,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.89
+        },
+        {
+          "feature": 8232,
+          "z": -5.59
+        },
+        {
+          "feature": 9032,
+          "z": -5.45
+        }
+      ]
+    },
+    {
+      "time_start": 153.0,
+      "time_end": 154.0,
+      "engagement": 51.58780753446569,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.7,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.8
+        },
+        {
+          "feature": 12504,
+          "z": -5.52
+        },
+        {
+          "feature": 15255,
+          "z": -5.49
+        }
+      ]
+    },
+    {
+      "time_start": 154.0,
+      "time_end": 155.0,
+      "engagement": 38.60602498204644,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.68,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.3
+        },
+        {
+          "feature": 12774,
+          "z": -5.22
+        },
+        {
+          "feature": 13726,
+          "z": -5.18
+        }
+      ]
+    },
+    {
+      "time_start": 155.0,
+      "time_end": 156.0,
+      "engagement": 24.285606182271966,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 0.94,
+      "top_features": [
+        {
+          "feature": 15255,
+          "z": -5.77
+        },
+        {
+          "feature": 8232,
+          "z": -5.55
+        },
+        {
+          "feature": 12504,
+          "z": -5.48
+        }
+      ]
+    },
+    {
+      "time_start": 156.0,
+      "time_end": 157.0,
+      "engagement": 24.05360079422924,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.49,
+      "confidence": 0.94,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.6
+        },
+        {
+          "feature": 15255,
+          "z": -5.6
+        },
+        {
+          "feature": 8233,
+          "z": -5.52
+        }
+      ]
+    },
+    {
+      "time_start": 157.0,
+      "time_end": 158.0,
+      "engagement": 13.789133629534655,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.24,
+      "confidence": 0.93,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.83
+        },
+        {
+          "feature": 8232,
+          "z": -5.3
+        },
+        {
+          "feature": 15255,
+          "z": -5.3
+        }
+      ]
+    },
+    {
+      "time_start": 158.0,
+      "time_end": 159.0,
+      "engagement": 4.531956941358398,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.27,
+      "confidence": 0.91,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.87
+        },
+        {
+          "feature": 8232,
+          "z": -5.29
+        },
+        {
+          "feature": 8233,
+          "z": -5.23
+        }
+      ]
+    },
+    {
+      "time_start": 159.0,
+      "time_end": 160.0,
+      "engagement": 5.919804937330582,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.07,
+      "confidence": 0.92,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.77
+        },
+        {
+          "feature": 8233,
+          "z": -5.66
+        },
+        {
+          "feature": 15248,
+          "z": -5.57
+        }
+      ]
+    },
+    {
+      "time_start": 160.0,
+      "time_end": 161.0,
+      "engagement": 15.537867782031157,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.03,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.79
+        },
+        {
+          "feature": 15248,
+          "z": -5.68
+        },
+        {
+          "feature": 8232,
+          "z": -5.66
+        }
+      ]
+    },
+    {
+      "time_start": 161.0,
+      "time_end": 162.0,
+      "engagement": 15.8852507148496,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.1,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.0
+        },
+        {
+          "feature": 6657,
+          "z": 5.75
+        },
+        {
+          "feature": 8233,
+          "z": -5.7
+        }
+      ]
+    },
+    {
+      "time_start": 162.0,
+      "time_end": 163.0,
+      "engagement": 14.921687344233126,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.21,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 6657,
+          "z": 5.89
+        },
+        {
+          "feature": 8233,
+          "z": -5.72
+        },
+        {
+          "feature": 9053,
+          "z": 5.46
+        }
+      ]
+    },
+    {
+      "time_start": 163.0,
+      "time_end": 164.0,
+      "engagement": 9.18795182837548,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.02,
+      "confidence": 0.94,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -5.62
+        },
+        {
+          "feature": 8231,
+          "z": -5.5
+        },
+        {
+          "feature": 8233,
+          "z": -5.25
+        }
+      ]
+    },
+    {
+      "time_start": 164.0,
+      "time_end": 165.0,
+      "engagement": 19.939618638507202,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.09,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 15943,
+          "z": -5.72
+        },
+        {
+          "feature": 8231,
+          "z": -5.58
+        },
+        {
+          "feature": 678,
+          "z": 5.39
+        }
+      ]
+    },
+    {
+      "time_start": 165.0,
+      "time_end": 166.0,
+      "engagement": 28.198840412233388,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.18,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.73
+        },
+        {
+          "feature": 8231,
+          "z": -5.63
+        },
+        {
+          "feature": 7969,
+          "z": 5.56
+        }
+      ]
+    },
+    {
+      "time_start": 166.0,
+      "time_end": 167.0,
+      "engagement": 33.36507377822034,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.42,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.93
+        },
+        {
+          "feature": 15943,
+          "z": -5.8
+        },
+        {
+          "feature": 8231,
+          "z": -5.7
+        }
+      ]
+    },
+    {
+      "time_start": 167.0,
+      "time_end": 168.0,
+      "engagement": 31.825089461828675,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.54,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.71
+        },
+        {
+          "feature": 3224,
+          "z": -5.7
+        },
+        {
+          "feature": 9032,
+          "z": -5.6
+        }
+      ]
+    },
+    {
+      "time_start": 168.0,
+      "time_end": 169.0,
+      "engagement": 34.83612497112586,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.78
+        },
+        {
+          "feature": 3224,
+          "z": -5.76
+        },
+        {
+          "feature": 15943,
+          "z": -5.7
+        }
+      ]
+    },
+    {
+      "time_start": 169.0,
+      "time_end": 170.0,
+      "engagement": 33.923973874470995,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.45,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.85
+        },
+        {
+          "feature": 1304,
+          "z": -5.62
+        },
+        {
+          "feature": 9032,
+          "z": -5.62
+        }
+      ]
+    },
+    {
+      "time_start": 170.0,
+      "time_end": 171.0,
+      "engagement": 31.645263197488887,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.35,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.83
+        },
+        {
+          "feature": 11885,
+          "z": -5.65
+        },
+        {
+          "feature": 9032,
+          "z": -5.52
+        }
+      ]
+    },
+    {
+      "time_start": 171.0,
+      "time_end": 172.0,
+      "engagement": 39.164891737004,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.43,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.88
+        },
+        {
+          "feature": 9032,
+          "z": -5.74
+        },
+        {
+          "feature": 1304,
+          "z": -5.5
+        }
+      ]
+    },
+    {
+      "time_start": 172.0,
+      "time_end": 173.0,
+      "engagement": 32.9850497194561,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.3,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.64
+        },
+        {
+          "feature": 9032,
+          "z": -5.56
+        },
+        {
+          "feature": 11885,
+          "z": -5.48
+        }
+      ]
+    },
+    {
+      "time_start": 173.0,
+      "time_end": 174.0,
+      "engagement": 41.25784139947436,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.55,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 9032,
+          "z": -5.42
+        },
+        {
+          "feature": 8231,
+          "z": -5.39
+        },
+        {
+          "feature": 15943,
+          "z": -5.37
+        }
+      ]
+    },
+    {
+      "time_start": 174.0,
+      "time_end": 175.0,
+      "engagement": 31.07401015214434,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.39
+        },
+        {
+          "feature": 9032,
+          "z": -5.22
+        },
+        {
+          "feature": 15255,
+          "z": -5.2
+        }
+      ]
+    },
+    {
+      "time_start": 175.0,
+      "time_end": 176.0,
+      "engagement": 35.570450281026986,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -5.61
+        },
+        {
+          "feature": 15255,
+          "z": -5.6
+        },
+        {
+          "feature": 9032,
+          "z": -5.48
+        }
+      ]
+    },
+    {
+      "time_start": 176.0,
+      "time_end": 177.0,
+      "engagement": 31.69084074515784,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.39,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 5363,
+          "z": -5.69
+        },
+        {
+          "feature": 11885,
+          "z": -5.63
+        },
+        {
+          "feature": 1304,
+          "z": -5.57
+        }
+      ]
+    },
+    {
+      "time_start": 177.0,
+      "time_end": 178.0,
+      "engagement": 47.5409414017558,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.1,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 367,
+          "z": 5.49
+        },
+        {
+          "feature": 9032,
+          "z": -5.43
+        },
+        {
+          "feature": 11885,
+          "z": -5.38
+        }
+      ]
+    },
+    {
+      "time_start": 178.0,
+      "time_end": 179.0,
+      "engagement": 30.94594624534372,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.05,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 9032,
+          "z": -5.41
+        },
+        {
+          "feature": 8231,
+          "z": -5.41
+        },
+        {
+          "feature": 11885,
+          "z": -5.14
+        }
+      ]
+    },
+    {
+      "time_start": 179.0,
+      "time_end": 180.0,
+      "engagement": 31.106334535805676,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.11,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 9032,
+          "z": -5.54
+        },
+        {
+          "feature": 11885,
+          "z": -5.23
+        },
+        {
+          "feature": 7973,
+          "z": 5.18
+        }
+      ]
+    },
+    {
+      "time_start": 180.0,
+      "time_end": 181.0,
+      "engagement": 62.76432577193584,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.28,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 12486,
+          "z": 5.71
+        },
+        {
+          "feature": 5032,
+          "z": 5.64
+        },
+        {
+          "feature": 251,
+          "z": 5.61
+        }
+      ]
+    },
+    {
+      "time_start": 181.0,
+      "time_end": 182.0,
+      "engagement": 78.04739105676651,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.22,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 251,
+          "z": 5.99
+        },
+        {
+          "feature": 15017,
+          "z": 5.98
+        },
+        {
+          "feature": 12275,
+          "z": 5.88
+        }
+      ]
+    },
+    {
+      "time_start": 182.0,
+      "time_end": 183.0,
+      "engagement": 78.10690526495165,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.2,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 3027,
+          "z": 6.01
+        },
+        {
+          "feature": 15017,
+          "z": 5.98
+        },
+        {
+          "feature": 6611,
+          "z": 5.96
+        }
+      ]
+    },
+    {
+      "time_start": 183.0,
+      "time_end": 184.0,
+      "engagement": 48.54271389426592,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.06,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 10845,
+          "z": -5.67
+        },
+        {
+          "feature": 251,
+          "z": 5.56
+        },
+        {
+          "feature": 3027,
+          "z": 5.47
+        }
+      ]
+    },
+    {
+      "time_start": 184.0,
+      "time_end": 185.0,
+      "engagement": 42.50855665692247,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.41,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.89
+        },
+        {
+          "feature": 9032,
+          "z": -5.58
+        },
+        {
+          "feature": 11885,
+          "z": -5.45
+        }
+      ]
+    },
+    {
+      "time_start": 185.0,
+      "time_end": 186.0,
+      "engagement": 41.67522437715817,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.49,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.19
+        },
+        {
+          "feature": 9032,
+          "z": -5.63
+        },
+        {
+          "feature": 8232,
+          "z": -5.6
+        }
+      ]
+    },
+    {
+      "time_start": 186.0,
+      "time_end": 187.0,
+      "engagement": 39.03364373671224,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.63,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.9
+        },
+        {
+          "feature": 8232,
+          "z": -5.44
+        },
+        {
+          "feature": 15943,
+          "z": -5.31
+        }
+      ]
+    },
+    {
+      "time_start": 187.0,
+      "time_end": 188.0,
+      "engagement": 39.304508401864084,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.7,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.71
+        },
+        {
+          "feature": 15943,
+          "z": -5.58
+        },
+        {
+          "feature": 11885,
+          "z": -5.42
+        }
+      ]
+    },
+    {
+      "time_start": 188.0,
+      "time_end": 189.0,
+      "engagement": 42.25734668405362,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.73,
+      "confidence": 0.96,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.97
+        },
+        {
+          "feature": 8232,
+          "z": -5.28
+        },
+        {
+          "feature": 15181,
+          "z": 5.24
+        }
+      ]
+    },
+    {
+      "time_start": 189.0,
+      "time_end": 190.0,
+      "engagement": 35.35683261612942,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.52,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.09
+        },
+        {
+          "feature": 8232,
+          "z": -5.59
+        },
+        {
+          "feature": 7969,
+          "z": 5.31
+        }
+      ]
+    },
+    {
+      "time_start": 190.0,
+      "time_end": 191.0,
+      "engagement": 26.024854736881252,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.51
+        },
+        {
+          "feature": 7969,
+          "z": 5.31
+        },
+        {
+          "feature": 8232,
+          "z": -5.27
+        }
+      ]
+    },
+    {
+      "time_start": 191.0,
+      "time_end": 192.0,
+      "engagement": 30.966551164480087,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.61,
+      "confidence": 0.95,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.71
+        },
+        {
+          "feature": 9032,
+          "z": -5.41
+        },
+        {
+          "feature": 11885,
+          "z": -5.36
+        }
+      ]
+    },
+    {
+      "time_start": 192.0,
+      "time_end": 193.0,
+      "engagement": 32.73357301624244,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.4,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 9032,
+          "z": -5.38
+        },
+        {
+          "feature": 8231,
+          "z": -5.36
+        },
+        {
+          "feature": 11885,
+          "z": -5.33
+        }
+      ]
+    },
+    {
+      "time_start": 193.0,
+      "time_end": 194.0,
+      "engagement": 41.28163041210186,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.47,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -6.12
+        },
+        {
+          "feature": 3224,
+          "z": -5.88
+        },
+        {
+          "feature": 9032,
+          "z": -5.81
+        }
+      ]
+    },
+    {
+      "time_start": 194.0,
+      "time_end": 195.0,
+      "engagement": 39.31942863052675,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.46,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -6.28
+        },
+        {
+          "feature": 8231,
+          "z": -6.27
+        },
+        {
+          "feature": 9041,
+          "z": -6.27
+        }
+      ]
+    },
+    {
+      "time_start": 195.0,
+      "time_end": 196.0,
+      "engagement": 42.647256436222285,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.53,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 11885,
+          "z": -6.42
+        },
+        {
+          "feature": 9032,
+          "z": -6.27
+        },
+        {
+          "feature": 1304,
+          "z": -6.21
+        }
+      ]
+    },
+    {
+      "time_start": 196.0,
+      "time_end": 197.0,
+      "engagement": 41.68772736207102,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.38,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9041,
+          "z": -6.34
+        },
+        {
+          "feature": 9032,
+          "z": -5.93
+        },
+        {
+          "feature": 8231,
+          "z": -5.88
+        }
+      ]
+    },
+    {
+      "time_start": 197.0,
+      "time_end": 198.0,
+      "engagement": 42.49975455554383,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.48,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18111,
+          "z": -5.78
+        },
+        {
+          "feature": 8231,
+          "z": -5.77
+        },
+        {
+          "feature": 9032,
+          "z": -5.72
+        }
+      ]
+    },
+    {
+      "time_start": 198.0,
+      "time_end": 199.0,
+      "engagement": 39.719824219375646,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.54,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.32
+        },
+        {
+          "feature": 20482,
+          "z": -5.95
+        },
+        {
+          "feature": 18111,
+          "z": -5.86
+        }
+      ]
+    },
+    {
+      "time_start": 199.0,
+      "time_end": 200.0,
+      "engagement": 38.85816851112212,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.61,
+      "confidence": 0.97,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -6.24
+        },
+        {
+          "feature": 9032,
+          "z": -5.77
+        },
+        {
+          "feature": 11885,
+          "z": -5.59
+        }
+      ]
+    },
+    {
+      "time_start": 200.0,
+      "time_end": 201.0,
+      "engagement": 34.588665893730855,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.36,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4774,
+          "z": 6.44
+        },
+        {
+          "feature": 1110,
+          "z": 6.41
+        },
+        {
+          "feature": 18284,
+          "z": 6.41
+        }
+      ]
+    },
+    {
+      "time_start": 201.0,
+      "time_end": 202.0,
+      "engagement": 29.318974495251766,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.27,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8190,
+          "z": 6.47
+        },
+        {
+          "feature": 1110,
+          "z": 6.41
+        },
+        {
+          "feature": 4774,
+          "z": 6.31
+        }
+      ]
+    },
+    {
+      "time_start": 202.0,
+      "time_end": 203.0,
+      "engagement": 44.541658698276684,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.02,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 18284,
+          "z": 6.38
+        },
+        {
+          "feature": 10254,
+          "z": 6.36
+        },
+        {
+          "feature": 8190,
+          "z": 6.31
+        }
+      ]
+    },
+    {
+      "time_start": 203.0,
+      "time_end": 204.0,
+      "engagement": 56.5266866227975,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.1,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 19373,
+          "z": 6.59
+        },
+        {
+          "feature": 10936,
+          "z": 6.54
+        },
+        {
+          "feature": 16639,
+          "z": 6.52
+        }
+      ]
+    },
+    {
+      "time_start": 204.0,
+      "time_end": 205.0,
+      "engagement": 70.39681458859755,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.52,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 10936,
+          "z": 6.41
+        },
+        {
+          "feature": 12855,
+          "z": 6.32
+        },
+        {
+          "feature": 10254,
+          "z": 6.27
+        }
+      ]
+    },
+    {
+      "time_start": 205.0,
+      "time_end": 206.0,
+      "engagement": 81.08559971994094,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.62,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 10936,
+          "z": 6.12
+        },
+        {
+          "feature": 16852,
+          "z": 6.05
+        },
+        {
+          "feature": 18907,
+          "z": 6.01
+        }
+      ]
+    },
+    {
+      "time_start": 206.0,
+      "time_end": 207.0,
+      "engagement": 67.35920606869894,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.49,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16115,
+          "z": 5.6
+        },
+        {
+          "feature": 1855,
+          "z": 5.53
+        },
+        {
+          "feature": 4900,
+          "z": 5.51
+        }
+      ]
+    },
+    {
+      "time_start": 207.0,
+      "time_end": 208.0,
+      "engagement": 56.41689374461618,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.34,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 16115,
+          "z": 5.62
+        },
+        {
+          "feature": 5363,
+          "z": -5.58
+        },
+        {
+          "feature": 3401,
+          "z": 5.54
+        }
+      ]
+    },
+    {
+      "time_start": 208.0,
+      "time_end": 209.0,
+      "engagement": 51.478198033396424,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.29,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5363,
+          "z": -5.65
+        },
+        {
+          "feature": 16973,
+          "z": -5.5
+        },
+        {
+          "feature": 9766,
+          "z": -5.42
+        }
+      ]
+    },
+    {
+      "time_start": 209.0,
+      "time_end": 210.0,
+      "engagement": 44.66798885783606,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.23,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 5363,
+          "z": -5.73
+        },
+        {
+          "feature": 8231,
+          "z": -5.52
+        },
+        {
+          "feature": 1466,
+          "z": 5.47
+        }
+      ]
+    },
+    {
+      "time_start": 210.0,
+      "time_end": 211.0,
+      "engagement": 48.39872952000962,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.3,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8231,
+          "z": -5.53
+        },
+        {
+          "feature": 17888,
+          "z": -5.3
+        },
+        {
+          "feature": 1855,
+          "z": 5.29
+        }
+      ]
+    },
+    {
+      "time_start": 211.0,
+      "time_end": 212.0,
+      "engagement": 52.68596970533057,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.29,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 7897,
+          "z": 5.5
+        },
+        {
+          "feature": 1855,
+          "z": 5.47
+        },
+        {
+          "feature": 8231,
+          "z": -5.4
+        }
+      ]
+    },
+    {
+      "time_start": 212.0,
+      "time_end": 213.0,
+      "engagement": 43.698990856444134,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.08,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1739,
+          "z": 5.58
+        },
+        {
+          "feature": 6057,
+          "z": 5.56
+        },
+        {
+          "feature": 1855,
+          "z": 5.55
+        }
+      ]
+    },
+    {
+      "time_start": 213.0,
+      "time_end": 214.0,
+      "engagement": 50.392822248435756,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.19,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 1855,
+          "z": 5.83
+        },
+        {
+          "feature": 7897,
+          "z": 5.79
+        },
+        {
+          "feature": 6059,
+          "z": 5.72
+        }
+      ]
+    },
+    {
+      "time_start": 214.0,
+      "time_end": 215.0,
+      "engagement": 57.510254769274525,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.11,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 14671,
+          "z": 6.0
+        },
+        {
+          "feature": 6059,
+          "z": 5.81
+        },
+        {
+          "feature": 1855,
+          "z": 5.8
+        }
+      ]
+    },
+    {
+      "time_start": 215.0,
+      "time_end": 216.0,
+      "engagement": 58.863677880120015,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.03,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 14671,
+          "z": 5.75
+        },
+        {
+          "feature": 4778,
+          "z": 5.65
+        },
+        {
+          "feature": 17889,
+          "z": -5.64
+        }
+      ]
+    },
+    {
+      "time_start": 216.0,
+      "time_end": 217.0,
+      "engagement": 69.59360616714993,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.18,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 13926,
+          "z": 5.8
+        },
+        {
+          "feature": 14671,
+          "z": 5.79
+        },
+        {
+          "feature": 17889,
+          "z": -5.71
+        }
+      ]
+    },
+    {
+      "time_start": 217.0,
+      "time_end": 218.0,
+      "engagement": 69.33701157544529,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.21,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9000,
+          "z": 6.06
+        },
+        {
+          "feature": 9175,
+          "z": 5.96
+        },
+        {
+          "feature": 17889,
+          "z": -5.87
+        }
+      ]
+    },
+    {
+      "time_start": 218.0,
+      "time_end": 219.0,
+      "engagement": 63.0030827718315,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.03,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 9000,
+          "z": 5.97
+        },
+        {
+          "feature": 9862,
+          "z": 5.85
+        },
+        {
+          "feature": 4338,
+          "z": 5.81
+        }
+      ]
+    },
+    {
+      "time_start": 219.0,
+      "time_end": 220.0,
+      "engagement": 62.16338230508492,
+      "dominant_emotion": "Conflict / Tension",
+      "valence": -0.0,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 4338,
+          "z": 6.13
+        },
+        {
+          "feature": 9862,
+          "z": 6.04
+        },
+        {
+          "feature": 1304,
+          "z": -5.97
+        }
+      ]
+    },
+    {
+      "time_start": 220.0,
+      "time_end": 221.0,
+      "engagement": 39.5033058619783,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.37,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 8190,
+          "z": 5.84
+        },
+        {
+          "feature": 9862,
+          "z": 5.82
+        },
+        {
+          "feature": 9904,
+          "z": 5.82
+        }
+      ]
+    },
+    {
+      "time_start": 221.0,
+      "time_end": 222.0,
+      "engagement": 36.22497320589107,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.57,
+      "confidence": 1.0,
+      "top_features": [
+        {
+          "feature": 678,
+          "z": 5.94
+        },
+        {
+          "feature": 9904,
+          "z": 5.83
+        },
+        {
+          "feature": 1966,
+          "z": 5.8
+        }
+      ]
+    },
+    {
+      "time_start": 222.0,
+      "time_end": 223.0,
+      "engagement": 38.23770371716063,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.79,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 1966,
+          "z": 6.33
+        },
+        {
+          "feature": 12975,
+          "z": 6.22
+        },
+        {
+          "feature": 9053,
+          "z": 6.19
+        }
+      ]
+    },
+    {
+      "time_start": 223.0,
+      "time_end": 224.0,
+      "engagement": 28.160464583874234,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.62,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 19470,
+          "z": 6.12
+        },
+        {
+          "feature": 19463,
+          "z": 6.02
+        },
+        {
+          "feature": 9053,
+          "z": 5.95
+        }
+      ]
+    },
+    {
+      "time_start": 224.0,
+      "time_end": 225.0,
+      "engagement": 33.13365186280688,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.83,
+      "confidence": 0.98,
+      "top_features": [
+        {
+          "feature": 19470,
+          "z": 6.73
+        },
+        {
+          "feature": 9052,
+          "z": 6.68
+        },
+        {
+          "feature": 9053,
+          "z": 6.38
+        }
+      ]
+    },
+    {
+      "time_start": 225.0,
+      "time_end": 226.0,
+      "engagement": 44.65780309279373,
+      "dominant_emotion": "High Arousal / Hook",
+      "valence": 0.96,
+      "confidence": 0.99,
+      "top_features": [
+        {
+          "feature": 19470,
+          "z": 6.87
+        },
+        {
+          "feature": 8190,
+          "z": 6.68
+        },
+        {
+          "feature": 9052,
+          "z": 6.65
+        }
+      ]
+    }
+  ],
+  "summary_stats": {
+    "duration_s": 225.0,
+    "mean_engagement": 50.84208813319229,
+    "peak_engagement": 100.0,
+    "peak_time": 48.0,
+    "valley_engagement": 0.0,
+    "valley_time": 0.0
+  },
+  "activity_ranges": {
+    "low_text": "🔵 LOW ACTIVITY | Yeh parts relatively calm hain:    ⏱️  0.0s se 1.0s tak    ⏱️  1.0s se 2.0s tak    ⏱️  2.0s se 3.0s tak    ⏱️  3.0s se 4.0s tak    ⏱️  4.0s se 5.0s tak    ⏱️  5.0s se 6.0s tak    ⏱️  6.0s se 7.0s tak    ⏱️  7.0s se 8.0s tak    ⏱️  17.0s se 18.0s tak    ⏱️  18.0s se 19.0s tak    ⏱️  19.0s se 20.0s tak    ⏱️  20.0s se 21.0s tak",
+    "high_text": "🟢 HIGH ACTIVITY | Yeh parts achhe hain:    ⏱️  48.0s se 49.0s tak    ⏱️  49.0s se 50.0s tak    ⏱️  50.0s se 51.0s tak    ⏱️  51.0s se 52.0s tak    ⏱️  52.0s se 53.0s tak    ⏱️  53.0s se 54.0s tak    ⏱️  82.0s se 83.0s tak    ⏱️  83.0s se 84.0s tak    ⏱️  84.0s se 85.0s tak    ⏱️  85.0s se 86.0s tak    ⏱️  86.0s se 87.0s tak    ⏱️  87.0s se 88.0s tak"
+  },
+  "ai_suggestions": "1. **First 5s diagnosis**: The video starts with 0.0/100 engagement, indicating a weak or non-existent hook. Viewers are not grabbed from the beginning, which may lead to high drop-off rates.\n\n2. **Peak analysis**: Peak engagement of 100.0/100 at 48.0s suggests that the content at this point is highly captivating, possibly due to a revealing moment, a surprising fact, or an emotional connection. This segment should be analyzed to understand what makes it so engaging.\n\n3. **Biggest drop diagnosis**: Although the exact timing of the biggest drop is not provided, the lowest engagement of 0.0/100 at 0.0s and the average engagement of 50.8/100 suggest that there might be a significant drop after the peak engagement at 48.0s or during the initial seconds. Without more data, it's challenging to pinpoint the exact moment, but it's clear that the start and possibly the section following the peak are areas of concern.\n\n4. **3 edit suggestions**:\n   - **Start with a stronger hook**: Consider revising the first 5 seconds to include a more captivating visual, an interesting fact, or a question that encourages viewers to keep watching.\n   - **Build up to the peak**: Analyze the content leading up to the 48.0s mark and ensure that it's engaging and logically leads to the peak moment. This could involve adding more context, suspense, or emotional connection.\n   - **Sustain engagement after the peak**: After the 48.0s mark, introduce new, equally engaging content or expand on the topic that peaked the viewers' interest. This could involve a deeper dive into the subject, related stories, or calls to action to keep the audience invested."
+}
